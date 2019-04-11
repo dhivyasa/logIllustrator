@@ -1,0 +1,9 @@
+2019-04-09 05:08:25,547 - search -INFO - Starting the search module
+2019-04-09 05:08:25,548 - search -INFO - Built Tree
+2019-04-09 05:08:25,548 - search.breadth_first -INFO - Starting to search Breadth-First
+2019-04-09 05:08:25,548 - search.breadth_first -INFO - Processing node 1
+2019-04-09 05:08:25,548 - search.breadth_first -INFO - Processing node 2
+2019-04-09 05:08:25,548 - search.breadth_first -INFO - Processing node 3
+2019-04-09 05:08:25,548 - search.breadth_first -INFO - Processing node 4
+2019-04-09 05:08:25,549 - search.breadth_first -INFO - Processing node 6
+2019-04-09 05:08:25,549 - search.breadth_first -INFO - Processing node 18
