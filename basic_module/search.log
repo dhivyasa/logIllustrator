@@ -1,0 +1,8 @@
+root : INFO :1825 :Program Depth-First is starting
+root : INFO :1825 :Program Depth-First is starting
+root : INFO :1825 :Program Depth-First is starting
+root : ERROR :1825 :Something went wrong
+Traceback (most recent call last):
+  File "search.py", line 71, in <module>
+    root = build_tree([1, 2, d, 4, 6, 18, 10, 8, 34, 45, 53, 65])
+NameError: name 'd' is not defined
